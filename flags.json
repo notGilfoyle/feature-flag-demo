@@ -1,0 +1,9 @@
+{
+  "new_dashboard": true,
+  "dark_mode": false,
+  "beta_users": [
+    "alice",
+    "bob"
+  ],
+  "rollout_percentage": 30
+}
